@@ -1,39 +1,5 @@
 ## 欢迎使用工业企业读到系统
 
-如您在使用过程中有任何因为请发送邮件至 1878065739@qq.com 取得联系。
+## 如您在使用过程中有任何因为请发送邮件至 1878065739@qq.com 取得联系。
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## If you have any questions, please send an email to 1878065739@qq.com. We will contact you soon.
